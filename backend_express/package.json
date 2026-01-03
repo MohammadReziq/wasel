@@ -1,0 +1,17 @@
+{
+  "name": "backend_express",
+  "version": "1.0.0",
+  "description": "app application to encourage people to maintain their daily prayers",
+  "license": "ISC",
+  "author": "mohammad reziq ( by the help of allah)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" nodemon index.js "
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
